@@ -1,0 +1,3 @@
+BSCS, BS of Computer Science
+BSIS, BS of Information System
+BSCA, BS of Computer Application
